@@ -1,1 +1,6 @@
+name:sphinx_test_workflow
 
+# execute this work flow automatically when we push to main
+on: 
+  push:
+    branches: { main}
