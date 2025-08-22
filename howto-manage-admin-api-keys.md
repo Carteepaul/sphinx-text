@@ -3,7 +3,8 @@ title: Admin API key management
 description: An overview of admin api key management.
 author:
 topic: conceptual
-date: 04/12/2023
+date: 08/22/2025
+uid: api-key-management
 ---
 
 # Admin API key management
