@@ -20,8 +20,8 @@ The Admin API keys are used with CLI or REST API methods to manage Project Amber
 
 1. Sign in to the Project Amber portal.
 1. Select **Admin API keys**.
-1. Select the view ![View  icon](media/common-graphics/view-icon.png) icon for API key you want to copy.
+1. Select the view icon for API key you want to copy.
     The API key is displayed.
-1. Select the copy ![Copy icon](media/common-graphics/copy-icon.png) icon.
+1. Select the copy icon.
     The API key is copied to your system memory.
 1. The API key can be used with the CLI to manage Project Amber resources.
