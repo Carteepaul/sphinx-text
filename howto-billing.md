@@ -27,4 +27,4 @@ When your Project Amber account is linked to the Microsoft Azure, billing manage
     The subscription is cancelled.  
 
    >[!Note]
-   >When a subscription is canceled, your access to the Project Amber portal is lost. 
+   >When a subscription is canceled, your access to the Project Amber portal is lost.
