@@ -16,8 +16,6 @@ The Admin API keys are used with CLI or REST API methods to manage Project Amber
 1. Select **Admin API keys**.
 1. View the API keys in the table.
 
-![Admin API keys](media/howto-manage-admin-api-keys/admin-api-keys.png)
-
 ## Copy Admin API keys
 
 1. Sign in to the Project Amber portal.
